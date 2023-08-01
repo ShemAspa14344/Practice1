@@ -1,0 +1,13 @@
+$Background_Color_1: red;
+$Background_Color_2: blue;
+$Font_Default: "Sans Serif";
+
+*{
+    margin:0%;
+    padding: 0;
+}
+p{
+    color: $Background_Color_1;
+    font-family: $Font_Default;
+    
+}
